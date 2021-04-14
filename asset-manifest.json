@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lainmaculada/static/css/main.72391af5.chunk.css",
-    "main.js": "/lainmaculada/static/js/main.c613967b.chunk.js",
-    "main.js.map": "/lainmaculada/static/js/main.c613967b.chunk.js.map",
+    "main.js": "/lainmaculada/static/js/main.4a9d9e2c.chunk.js",
+    "main.js.map": "/lainmaculada/static/js/main.4a9d9e2c.chunk.js.map",
     "runtime-main.js": "/lainmaculada/static/js/runtime-main.c04f6cc9.js",
     "runtime-main.js.map": "/lainmaculada/static/js/runtime-main.c04f6cc9.js.map",
     "static/js/2.b97310a6.chunk.js": "/lainmaculada/static/js/2.b97310a6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c04f6cc9.js",
     "static/js/2.b97310a6.chunk.js",
     "static/css/main.72391af5.chunk.css",
-    "static/js/main.c613967b.chunk.js"
+    "static/js/main.4a9d9e2c.chunk.js"
   ]
 }
